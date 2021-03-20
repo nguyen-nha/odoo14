@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_scheduled_reminders,access_scheduled_reminders,model_scheduled_reminders,base.group_user,1,1,1,1
+access_scheduled_maintain_reminder,access.scheduled.maintain.reminder,model_scheduled_maintain_reminder,,1,1,1,1
